@@ -1,3 +1,4 @@
+body { font-family: Verdana }
 h1 {color: rgb(0, 0, 255);
     font-weight: bold;
     text-align: center;}
@@ -12,30 +13,38 @@ caption {color: rgb(222, 179, 7);
     font-weight: bold;
     margin-bottom: 10px;}
 
-th {background-color: rgb(214, 214, 214);
+th {background-color: rgb(145, 236, 131);
     text-align: center;
     font-weight: bold;
+    padding: 30px;
     width: 100px;}
 
 td {border: 1px solid rgb(0, 0, 0);
     text-align: center;
     padding: 8px;}
 
-.LMSGI {background-color: rgb(255, 255, 224); font-weight: bold;}
+    .hores {font-size: 20px;
+    padding: 10px;
+    width: 180px;}
 
-.BD {background-color: rgb(166, 210, 224); font-weight: bold;}
+    .descans {font-size: 20px;
+    padding: 15px;
+    text-align: center;}
 
-.PED { background-color: rgb(141, 233, 141); font-weight: bold;}
+.LMSGI {background-color: rgb(241, 167, 195);}
 
-.TUT {background-color: rgb(238, 129, 129); font-weight: bold;}
+.BD {background-color: rgb(249, 254, 216);}
 
-.AN {background-color: rgb(249, 184, 193); font-weight: bold;}
+.PED { background-color: rgb(38, 115, 98);}
 
-.SI {background-color: rgb(255, 248, 199); font-weight: bold;}
+.TUT {background-color: rgb(111, 173, 255);}
 
-.DIW {background-color: rgb(224, 255, 255); font-weight: bold;}
+.AN {background-color: rgb(232, 223, 49);}
 
-.IPOI {background-color: rgb(40, 184, 176); font-weight: bold;}
+.SI {background-color: rgb(238, 255, 1);} 
 
-.descans {text-align: center;
-    font-weight: bold;}
+.DIW {background-color: rgb(231, 112, 65);}
+
+.IPOI {background-color: rgb(177, 18, 18);}
+
+.descans {text-align: center;}
